@@ -1,0 +1,9 @@
+package MAIN;
+public class area_of_rectalgle {
+    public static void main(String[] args) 
+        int b=7;
+        int h=4;
+        int area=b*h
+        System.out.println(area);
+    }
+}
